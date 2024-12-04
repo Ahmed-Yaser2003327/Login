@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Ahmed-Yaser2003327/Login.git/static/css/main.c5f26982.css",
-    "main.js": "/Ahmed-Yaser2003327/Login.git/static/js/main.e3755a98.js",
-    "static/js/453.da0194bb.chunk.js": "/Ahmed-Yaser2003327/Login.git/static/js/453.da0194bb.chunk.js",
-    "index.html": "/Ahmed-Yaser2003327/Login.git/index.html",
-    "main.c5f26982.css.map": "/Ahmed-Yaser2003327/Login.git/static/css/main.c5f26982.css.map",
-    "main.e3755a98.js.map": "/Ahmed-Yaser2003327/Login.git/static/js/main.e3755a98.js.map",
-    "453.da0194bb.chunk.js.map": "/Ahmed-Yaser2003327/Login.git/static/js/453.da0194bb.chunk.js.map"
+    "main.css": "/Login.git/static/css/main.c5f26982.css",
+    "main.js": "/Login.git/static/js/main.24fbee48.js",
+    "static/js/453.da0194bb.chunk.js": "/Login.git/static/js/453.da0194bb.chunk.js",
+    "index.html": "/Login.git/index.html",
+    "main.c5f26982.css.map": "/Login.git/static/css/main.c5f26982.css.map",
+    "main.24fbee48.js.map": "/Login.git/static/js/main.24fbee48.js.map",
+    "453.da0194bb.chunk.js.map": "/Login.git/static/js/453.da0194bb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c5f26982.css",
-    "static/js/main.e3755a98.js"
+    "static/js/main.24fbee48.js"
   ]
 }
