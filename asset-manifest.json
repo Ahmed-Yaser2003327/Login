@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Login.git/static/css/main.c5f26982.css",
-    "main.js": "/Login.git/static/js/main.99798d4d.js",
-    "static/js/453.da0194bb.chunk.js": "/Login.git/static/js/453.da0194bb.chunk.js",
-    "index.html": "/Login.git/index.html",
-    "main.c5f26982.css.map": "/Login.git/static/css/main.c5f26982.css.map",
-    "main.99798d4d.js.map": "/Login.git/static/js/main.99798d4d.js.map",
-    "453.da0194bb.chunk.js.map": "/Login.git/static/js/453.da0194bb.chunk.js.map"
+    "main.css": "/Login/static/css/main.c5f26982.css",
+    "main.js": "/Login/static/js/main.a542007d.js",
+    "static/js/453.da0194bb.chunk.js": "/Login/static/js/453.da0194bb.chunk.js",
+    "index.html": "/Login/index.html",
+    "main.c5f26982.css.map": "/Login/static/css/main.c5f26982.css.map",
+    "main.a542007d.js.map": "/Login/static/js/main.a542007d.js.map",
+    "453.da0194bb.chunk.js.map": "/Login/static/js/453.da0194bb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c5f26982.css",
-    "static/js/main.99798d4d.js"
+    "static/js/main.a542007d.js"
   ]
 }
